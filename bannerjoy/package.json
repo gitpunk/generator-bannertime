@@ -1,0 +1,38 @@
+{
+  "name": "bannerjoy",
+  "version": "1.0.0",
+  "description": "Modern Gulp 4 starter kit for HTML5 banners",
+  "private": true,
+  "scripts": {
+    "dev": "gulp",
+    "build": "cross-env NODE_ENV=production gulp build",
+    "clean": "gulp clean"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.19",
+    "browser-sync": "^2.29.3",
+    "cssnano": "^6.1.2",
+    "del": "^7.1.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-if": "^3.0.0",
+    "gulp-imagemin": "^8.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^6.0.1",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-terser": "^2.1.0",
+    "sass": "^1.77.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.4",
+    "@babel/preset-env": "^7.24.4",
+    "cross-env": "^7.0.3"
+  },
+  "browserslist": [
+    ">0.5%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

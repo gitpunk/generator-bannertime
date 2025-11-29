@@ -1,5 +1,7 @@
 ### This project is no longer being actively developed or maintained
 
+**Looking for a modernized, Gulp 4-compatible starter?** See the new `bannerjoy/` directory in this repository for an actively maintained rewrite that ships a lighter, dependency-friendly build built on modern Node tooling.
+
 # ![Logo](generators/app/templates/src/base/images/logo.png)
 
 [![Build Status](https://travis-ci.org/bannertime/generator-bannertime.svg?branch=master)](https://travis-ci.org/bannertime/generator-bannertime)
